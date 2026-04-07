@@ -7,9 +7,7 @@
 
 ## 📸 Demonstração
 
-🔗 **URL do projeto:** [cardapio-two-area.vercel.app](https://cardapio-two-area.vercel.app)
-
-> ⚠️ *Se o link não estiver funcionando, o deploy pode ter expirado — siga as instruções de recuperação acima.*
+🔗 **URL do projeto:** https://cardapio-two-eta.vercel.app/
 
 ## ✨ Funcionalidades
 
